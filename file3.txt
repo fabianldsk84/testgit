@@ -1,3 +1,4 @@
 THIS IS A NEW FILE FOR TEST THE PUSH 
 
 New Line from Remote GitHub
+NewLine from Local
